@@ -1,1 +1,1 @@
-# a simple website developed with html and css
+# my site developed using html and css
